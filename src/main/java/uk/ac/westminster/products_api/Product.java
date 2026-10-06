@@ -14,7 +14,7 @@ public class Product {
         this.price = price;
 
     }
-
+//    getters requred for json
     public Long getId() { return id;}
     public String getName() {return name;}
     public double getPrice() {return price;}
